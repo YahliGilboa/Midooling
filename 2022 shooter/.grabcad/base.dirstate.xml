@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GCSCMDirState xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UpdateTime>2022-09-30T20:58:11.7180996+00:00</UpdateTime>
+  <Standins>
+    <GCSCMStandin>
+      <FileName>shooter turret 2022 concept.SLDPRT</FileName>
+      <SHA1>5CB4BFE4C584E77436F11BC0E4A7CF7978E1DB7E</SHA1>
+      <FileSize>851582</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>wcp bearing stack reference.step</FileName>
+      <SHA1>33D4CF45B04F9BF01DF8592E39640E80048B8ADA</SHA1>
+      <FileSize>48287106</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>console.log</FileName>
+      <SHA1>EBA2B5277F27F2F948E8D3C6F197410AF7A24E98</SHA1>
+      <FileSize>29639</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common parts\Parametric Spur Gear.SLDPRT</FileName>
+      <SHA1>5F057D51AF977FE3DD818C9C38532D7075223329</SHA1>
+      <FileSize>1989624</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>cargo.SLDPRT</FileName>
+      <SHA1>B9AF7D81E04CC908E0321D1670E361E669EF5C7A</SHA1>
+      <FileSize>119541</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common parts\sketch blocks\3dPrintSupport.SLDBLK</FileName>
+      <SHA1>37A0463719E42EC0B5AA42B7B040D420A7B48A19</SHA1>
+      <FileSize>30130</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common parts\sketch blocks\definingSketch.SLDBLK</FileName>
+      <SHA1>2FC36262F9E353FD1620052EB50E1AE237876ACF</SHA1>
+      <FileSize>37947</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common parts\sketch blocks\neo 550.SLDBLK</FileName>
+      <SHA1>676B0F0513C4C89210F21E7605E1121E47783E8A</SHA1>
+      <FileSize>38978</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>hood.SLDPRT</FileName>
+      <SHA1>056C9BD47912D3E943A436E68308B9E55B0C45A2</SHA1>
+      <FileSize>116781</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>shooter asssembly.SLDASM</FileName>
+      <SHA1>C098567EAD386257EA131FD8D2E5057F54C1098B</SHA1>
+      <FileSize>3698898</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common parts\motion components\2in_stealthWheels_0.5inHex.STEP</FileName>
+      <SHA1>6982268AEDCA493C7CCC77B342545E8AE8631215</SHA1>
+      <FileSize>817342</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>hood v1.SLDPRT</FileName>
+      <SHA1>6430D987E941B030579B32D59FB449676F705771</SHA1>
+      <FileSize>1466116</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>mateen.SLDPRT</FileName>
+      <SHA1>27F7164938ED0D9D1646FC678D3209F43FD1ED9A</SHA1>
+      <FileSize>183890</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>toothProfile.SLDBLK</FileName>
+      <SHA1>26BDE8B6601EFDFBF254FE9077BD2D63A5D2137B</SHA1>
+      <FileSize>67965</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common parts\motion components\motors\Neo550.SLDPRT</FileName>
+      <SHA1>4E26355D9B81D9269E062366773F5844945C3FBF</SHA1>
+      <FileSize>1033858</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common parts\MAXPLANETARY 0.5 Hex Socket Output.STEP</FileName>
+      <SHA1>1C78BD30ADE39789CFC881F7AD82CB572F9BF905</SHA1>
+      <FileSize>2909911</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common parts\MAXPLANETARY input stage.STEP</FileName>
+      <SHA1>A8DB9C5C72F74BF06712EAEC7620FD9F0B45DB5C</SHA1>
+      <FileSize>336643</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common parts\MAXPlanetary-Cartridges-STEP.zip</FileName>
+      <SHA1>BBA70B95FE78A8811EC7C96328BEAD4BDB83A7C8</SHA1>
+      <FileSize>7980289</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>common parts\טופס בקשה לחיל המודיעין יהלי סופי.pdf..pdf</FileName>
+      <SHA1>5BFBB3F94CE80DD133D459F0DF02EBBCC591039F</SHA1>
+      <FileSize>148330</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MAXPLANETARY 0.5 Hex Socket Output.step.SLDPRT</FileName>
+      <SHA1>49911B8B82B6BC605E068689F5DBC236B3B85E86</SHA1>
+      <FileSize>2572721</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>MAXPLANETARY input stage.step.SLDPRT</FileName>
+      <SHA1>95B430B44162520C03A0AC50DC68F564427EBDFA</SHA1>
+      <FileSize>247001</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>REV-21-2101.step.SLDPRT</FileName>
+      <SHA1>6B00678254DFF99753E08B973A12963A261D6C45</SHA1>
+      <FileSize>3027795</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+    <GCSCMStandin>
+      <FileName>versa for hood.SLDASM</FileName>
+      <SHA1>C98E592F3069C33D3577020FC803F5D938E13A99</SHA1>
+      <FileSize>2955058</FileSize>
+      <ProEVersionedName />
+      <LastUpdated>0001-01-01T00:00:00.0000000+00:00</LastUpdated>
+    </GCSCMStandin>
+  </Standins>
+  <Version>1</Version>
+</GCSCMDirState>
