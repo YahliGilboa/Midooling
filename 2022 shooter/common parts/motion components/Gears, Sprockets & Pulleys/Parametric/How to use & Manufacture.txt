@@ -1,0 +1,35 @@
+Spur Gear: 
+- edit the number of teeth and the module through the part's EQUATIONS.
+- in order for the gear to mesh with stock gears from andymark or vex you need to match between the gears' 
+DPs (for example 20DP or 32DP)
+- there is a conversion chart from DP(Inch) to Module(metric and what is used in the parametric model)
+
+HTD Pulley:
+- this is a Parametric Timing Pulley for 5mm HTD belts (the belts we buy from gg yarum)
+- edit the amount of teeth through the part's EQUATIONS 
+- to add VersaKeys and weight reduction manually unsupress the features containing it
+
+Plate Sprocket:
+- edit the amount of teeth through the part's EQUATIONS 
+- the sort of chain can be changed from #25 to #35 by changing two 
+parameters (In depth explenation on how is in a comment inside the part).
+
+
+Manufacturing:
+Spur Gear - (according to other teams' experience) theses gears should be sent to be laset cut, 
+and can be split into thinner plates (in order for the laser to be able to cut) and
+than re-stacked to from the full thickness of the gear.
+
+HTD Pulley - done well on our 3D Printer with medium fillings, can also be sent to Stratasys for higher quality 
+(but specity it needs to be with high density filling bc they tend to not be too generous with these unless requested).
+Pulleys which suffer higher tourqe can also be cun on the CNC 
+router (although not yet tested at the time of writing this document).
+
+Plate Sprocket - done well on CNC router. when making this in 2020 we had a rig that held 
+the gear above the machine surface in order to 
+check if the teeth are well made (by trying the chain on it) during manufacturing. if the chain didnt fit at
+first we made the cut again and after a few cuts it was done. also in order for the
+#25 chain to fit on it we had to reduce the thicness of the areas where the chain sits 
+and we made it on the milling machine with a rig that allowed spinning the sprocket around a central axis 
+(this cut was done before cutting the teeth out of the sprocket).
+  
